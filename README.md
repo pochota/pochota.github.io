@@ -6,7 +6,6 @@ contenidos:
 - galeria.html - galeria de fotos
 galeria/ - carpeta que contiene las fotos
 - videos.html - videos de youtube con embed
-- nitter.html - html para que pueda ver twitter mas limpio, rapido y sin iniciar sesion
 - Bubbles.png - fondo de los html
 - favicon.png - favicon.png
 - README.md - donde estan tus ojos ahora
