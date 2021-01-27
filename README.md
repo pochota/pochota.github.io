@@ -1,11 +1,10 @@
-mi pagina hecha con html y un poco de css :)
-contenidos:
-- index.html - pagina principal
-- en.html - pagina principal en ingles
-- en/ - carpeta para los archivos galeria.html y videos.html en ingles
-- galeria.html - galeria de fotos
-galeria/ - carpeta que contiene las fotos
-- videos.html - videos de youtube con embed
-- Bubbles.png - fondo de los html
+my website made with html and css :)
+contents:
+- index.html - main page
+- deprecated/ - folder containing old, original version in spanish
+- gallery.html - pics
+galeria/ - folder with da pics
+- vids.html - embedded youtube videos
+- Bubbles.png - website background
 - favicon.png - favicon.png
-- README.md - donde estan tus ojos ahora
+- README.md - This
